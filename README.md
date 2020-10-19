@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jometzg/mslearn/_apis/build/status/jometzg.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/jometzg/mslearn/_build/latest?definitionId=74&branchName=master)
 
 # Contributing
 
